@@ -1,0 +1,12 @@
+# Python artifacts
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data artifacts
+data/*.db
+data/traces/*.jsonl
+
+# OS
+.DS_Store
